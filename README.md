@@ -13,6 +13,7 @@
 * [Laravel INS & OUTS](http://laravel.io/)
 * [Laravel IRC channel](http://laravel.io/irc)
 * [Forums](http://forums.laravel.io)
+* [Laracon](https://conference.laravel.com/)
 
 ###Blogs
 * [Culttt](http://culttt.com)
