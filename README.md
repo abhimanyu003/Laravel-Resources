@@ -46,13 +46,13 @@
 * [Learning Laravel: The Easiest Way](https://leanpub.com/learninglaravel)
 * [Laravel: Code Happy](https://leanpub.com/codehappy)
 
-
 ###Tools
 * [Laravel Tricks](http://www.laravel-tricks.com/)
 * [Laravel Snippets](http://laravelsnippets.com/)
 * [Laravel Schema Designer](http://laravelsd.com/)
 * [Laravel Packages Registry](http://registry.autopergamene.eu/)
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
+* [IDE Helper](https://github.com/barryvdh/laravel-ide-helper)
 
 ###Social
 * [@laravelphp](https://twitter.com/laravelphp)
