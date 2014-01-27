@@ -63,6 +63,7 @@
 * [Laravel (Facebook Group)](https://www.facebook.com/groups/LaravelCommunity)
 * [Laravel Peeps (Twitter List)](https://twitter.com/jeffrey_way/laravel-peeps/members)
 * [Laracon EU (YouTubue)](http://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A)
+* [Reddit](http://www.reddit.com/r/laravel/)
 
 ###Extra
 * [Built with Laravel](http://builtwithlaravel.com)
