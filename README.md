@@ -4,7 +4,7 @@
 * [Official](#official)
 * [Blogs](#blogs)
 * [Tutorials](#tutorials)
-* [Tools](#tutorials)
+* [Tools](#tools)
 * [Social](#social)
 * [Extra](#extra)
 
