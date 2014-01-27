@@ -4,6 +4,7 @@
 * [Tutorials](#tutorials)
 * [Tools](#tutorials)
 * [Social](#social)
+* [Extra](#extra)
 
 ###Official
 * [Laravel.com](http://laravel.com/)
@@ -48,6 +49,8 @@
 * [Laravel Tricks](http://www.laravel-tricks.com/)
 * [Laravel Snippets](http://laravelsnippets.com/)
 * [Laravel Schema Designer](http://laravelsd.com/)
+* [Laravel Packages Registry](http://registry.autopergamene.eu/)
+* [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
 
 ###Social
 * [@laravelphp](https://twitter.com/laravelphp)
@@ -58,6 +61,9 @@
 * [Laravel (Facebook Group)](https://www.facebook.com/groups/LaravelCommunity)
 * [Laravel Peeps (Twitter List)](https://twitter.com/jeffrey_way/laravel-peeps/members)
 * [Laracon EU (YouTubue)](http://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A)
+
+###Extra
+*[Built with Laravel](http://builtwithlaravel.com)
 
 ###Contribute
 
