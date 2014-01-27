@@ -63,7 +63,7 @@
 * [Laracon EU (YouTubue)](http://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A)
 
 ###Extra
-*[Built with Laravel](http://builtwithlaravel.com)
+* [Built with Laravel](http://builtwithlaravel.com)
 
 ###Contribute
 
