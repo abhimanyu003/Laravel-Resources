@@ -27,7 +27,7 @@
 * [Jasonlewis](http://jasonlewis.me)
 * [develoPHP](http://www.develophp.org/)
 * [Kirk Bushell](http://kirkbushell.me/categories/laravel/)
-* [Maxoffsky](http://maxoffsky.com/category/code-blog/)
+* [Maxoffsky - Maks Surguy](http://maxoffsky.com/category/code-blog/)
 * [Ryan Tablada](http://ryantablada.com/tag/Laravel)
 
 ###Tutorials
@@ -45,6 +45,7 @@
 * [Getting Stuff Done with Laravel 4](https://leanpub.com/gettingstuffdonelaravel)
 * [Learning Laravel: The Easiest Way](https://leanpub.com/learninglaravel)
 * [Laravel: Code Happy](https://leanpub.com/codehappy)
+* [Laravel in Action by Maks Surguy](http://www.manning.com/surguy/)
 
 ###Tools
 * [Laravel Tricks](http://www.laravel-tricks.com/)
