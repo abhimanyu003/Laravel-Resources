@@ -13,9 +13,6 @@
 * [Laravel GitHub](https://github.com/laravel/laravel) 
 * [Laravel Framework (Kernel)](https://github.com/laravel/framework)
 * [API](http://laravel.com/api/)
-* [Laravel INS & OUTS](http://laravel.io/)
-* [Laravel IRC channel](http://laravel.io/irc)
-* [Forums](http://forums.laravel.io)
 * [Laracon](https://conference.laravel.com/)
 
 ###Blogs
@@ -32,6 +29,7 @@
 
 ###Tutorials
 * [Laracasts](https://laracasts.com/)
+* [Learning Laravel Center](http://www.learninglaravel.net)
 * [Tuts+](https://tutsplus.com/?s=laravel&post_type=all)
 * [net.tuts+](https://tutsplus.com/?s=laravel&post_type=all)
 * [Laravel Recipes](http://laravel-recipes.com/)
@@ -56,6 +54,10 @@
 
 ###Social
 * [@laravelphp](https://twitter.com/laravelphp)
+* [@LearningLaravel](https://twitter.com/LearningLaravel)
+* [Laravel INS & OUTS](http://laravel.io/)
+* [Laravel IRC channel](http://laravel.io/irc)
+* [Forums](http://forums.laravel.io)
 * [@LaravelWeekly](https://twitter.com/LaravelWeekly)
 * [@LaravelNews](https://twitter.com/laravelnews)
 * [@taylorotwell](https://twitter.com/taylorotwell)
@@ -65,8 +67,10 @@
 * [Laracon EU (YouTubue)](http://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A)
 * [Reddit](http://www.reddit.com/r/laravel/)
 
+
 ###Extra
 * [Built with Laravel](http://builtwithlaravel.com)
+
 
 ###Contribute
 
