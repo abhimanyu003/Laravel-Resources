@@ -2,6 +2,7 @@
 
 ###Index
 * [Official](#official)
+* [Communities](#communities)
 * [Blogs](#blogs)
 * [Tutorials](#tutorials)
 * [Tools](#tools)
@@ -13,10 +14,13 @@
 * [Laravel GitHub](https://github.com/laravel/laravel) 
 * [Laravel Framework (Kernel)](https://github.com/laravel/framework)
 * [API](http://laravel.com/api/)
+* [Laracon](https://conference.laravel.com/)
+
+###Communities
 * [Laravel INS & OUTS](http://laravel.io/)
 * [Laravel IRC channel](http://laravel.io/irc)
 * [Forums](http://forums.laravel.io)
-* [Laracon](https://conference.laravel.com/)
+* irc://chat.freenode.net:6667/laravel
 
 ###Blogs
 * [Culttt](http://culttt.com)
@@ -35,6 +39,7 @@
 * [Tuts+](https://tutsplus.com/?s=laravel&post_type=all)
 * [net.tuts+](https://tutsplus.com/?s=laravel&post_type=all)
 * [Laravel Recipes](http://laravel-recipes.com/)
+* [Learning Laravel Center](http://www.learninglaravel.net)
 
 ###Books
 * [Laravel: Code Bright](https://leanpub.com/codebright)
@@ -52,7 +57,7 @@
 * [Laravel Snippets](http://laravelsnippets.com/)
 * [Laravel Schema Designer](http://laravelsd.com/)
 * [Laravel Packages Registry](http://registry.autopergamene.eu/)
-* [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
+* [Laravel Cheat Sheet](http://cheats.laravel.com)
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper)
 
 ###Social
@@ -60,8 +65,10 @@
 * [@LaravelWeekly](https://twitter.com/LaravelWeekly)
 * [@LaravelNews](https://twitter.com/laravelnews)
 * [@taylorotwell](https://twitter.com/taylorotwell)
+* [@LearningLaravel](https://twitter.com/LearningLaravel)
 * [Laravel (Facebook Page)](https://www.facebook.com/LaravelCommunity)
 * [Laravel (Facebook Group)](https://www.facebook.com/groups/LaravelCommunity)
+* [Laravel (Google+)](https://plus.google.com/u/0/communities/106838454910116161868)
 * [Laravel Peeps (Twitter List)](https://twitter.com/jeffrey_way/laravel-peeps/members)
 * [Laracon EU (YouTubue)](http://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A)
 * [Reddit](http://www.reddit.com/r/laravel/)
