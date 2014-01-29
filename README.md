@@ -40,6 +40,7 @@
 * [net.tuts+](https://tutsplus.com/?s=laravel&post_type=all)
 * [Laravel Recipes](http://laravel-recipes.com/)
 * [Learning Laravel Center](http://www.learninglaravel.net)
+* [Fallendown2005](https://www.youtube.com/user/fallendown2005)
 
 ###Books
 * [Laravel: Code Bright](https://leanpub.com/codebright)
