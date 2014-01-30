@@ -33,6 +33,7 @@
 * [Kirk Bushell](http://kirkbushell.me/categories/laravel/)
 * [Maxoffsky - Maks Surguy](http://maxoffsky.com/category/code-blog/)
 * [Ryan Tablada](http://ryantablada.com/tag/Laravel)
+* [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)
 
 ###Tutorials
 * [Laracasts](https://laracasts.com/)
@@ -60,6 +61,7 @@
 * [Laravel Packages Registry](http://registry.autopergamene.eu/)
 * [Laravel Cheat Sheet](http://cheats.laravel.com)
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper)
+* [Packalyst](http://packalyst.com)
 
 ###Social
 * [@laravelphp](https://twitter.com/laravelphp)
@@ -67,11 +69,12 @@
 * [@LaravelNews](https://twitter.com/laravelnews)
 * [@taylorotwell](https://twitter.com/taylorotwell)
 * [@LearningLaravel](https://twitter.com/LearningLaravel)
+* [@packalyst](https://twitter.com/packalyst)
 * [Laravel (Facebook Page)](https://www.facebook.com/LaravelCommunity)
 * [Laravel (Facebook Group)](https://www.facebook.com/groups/LaravelCommunity)
 * [Laravel (Google+)](https://plus.google.com/u/0/communities/106838454910116161868)
 * [Laravel Peeps (Twitter List)](https://twitter.com/jeffrey_way/laravel-peeps/members)
-* [Laracon EU (YouTubue)](http://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A)
+* [Laracon EU (YouTube)](http://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A)
 * [Reddit](http://www.reddit.com/r/laravel/)
 
 ###Extra
