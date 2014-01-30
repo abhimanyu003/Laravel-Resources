@@ -21,6 +21,7 @@
 * [Laravel IRC channel](http://laravel.io/irc)
 * [Forums](http://forums.laravel.io)
 * irc://chat.freenode.net:6667/laravel
+* [Laravel France](http://laravel.fr)
 
 ###Blogs
 * [Culttt](http://culttt.com)
