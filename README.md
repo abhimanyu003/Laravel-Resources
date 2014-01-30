@@ -3,6 +3,7 @@
 ###Index
 * [Official](#official)
 * [Communities](#communities)
+	* [Locale](#locale) 	
 * [Blogs](#blogs)
 * [Tutorials](#tutorials)
 * [Tools](#tools)
@@ -21,7 +22,11 @@
 * [Laravel IRC channel](http://laravel.io/irc)
 * [Forums](http://forums.laravel.io)
 * irc://chat.freenode.net:6667/laravel
+
+###Locale
 * [Laravel France](http://laravel.fr)
+* [Laravel Korea](http://laravel-korea.org/)
+* [Laravel Russia](http://laravel.ru)
 
 ###Blogs
 * [Culttt](http://culttt.com)
@@ -80,6 +85,7 @@
 
 ###Extra
 * [Built with Laravel](http://builtwithlaravel.com)
+* [WithLaravel (Job Board)](http://withlaravel.com)
 
 ###Contribute
 
