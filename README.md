@@ -87,6 +87,7 @@
 ###Extra
 * [Built with Laravel](http://builtwithlaravel.com)
 * [WithLaravel (Job Board)](http://withlaravel.com)
+* [Laravel News](http://laravel-news.com)
 
 ###Contribute
 
