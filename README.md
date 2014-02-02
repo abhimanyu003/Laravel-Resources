@@ -20,7 +20,7 @@
 ###Communities
 * [Laravel INS & OUTS](http://laravel.io/)
 * [Laravel IRC channel](http://laravel.io/irc)
-* [Forums](http://forums.laravel.io)
+* [Forums](http://laravel.io/forum)
 * irc://chat.freenode.net:6667/laravel
 
 ###Locale
