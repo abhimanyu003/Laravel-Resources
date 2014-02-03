@@ -88,6 +88,7 @@
 * [Built with Laravel](http://builtwithlaravel.com)
 * [WithLaravel (Job Board)](http://withlaravel.com)
 * [Laravel News](http://laravel-news.com)
+* [Strackoverflow](http://stackoverflow.com/questions/tagged/laravel)
 
 ###Contribute
 
