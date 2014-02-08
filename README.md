@@ -60,6 +60,7 @@
 * [Laravel: Code Happy](https://leanpub.com/codehappy)
 * [Laravel in Action by Maks Surguy](http://www.manning.com/surguy/)
 * [Laravel: Code Clever](https://leanpub.com/codeclever)
+* [Jasmine Web App](https://leanpub.com/jasminewebapp)
 
 ###Tools
 * [Laravel Tricks](http://www.laravel-tricks.com/)
