@@ -59,6 +59,7 @@
 * [Learning Laravel: The Easiest Way](https://leanpub.com/learninglaravel)
 * [Laravel: Code Happy](https://leanpub.com/codehappy)
 * [Laravel in Action by Maks Surguy](http://www.manning.com/surguy/)
+* [Laravel: Code Clever](https://leanpub.com/codeclever)
 
 ###Tools
 * [Laravel Tricks](http://www.laravel-tricks.com/)
