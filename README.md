@@ -15,6 +15,7 @@
 * [Laravel GitHub](https://github.com/laravel/laravel) 
 * [Laravel Framework (Kernel)](https://github.com/laravel/framework)
 * [API](http://laravel.com/api/)
+* [Laravel Forge](https://forge.laravel.com)
 * [Laracon](https://conference.laravel.com/)
 
 ###Communities
