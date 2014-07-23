@@ -90,6 +90,7 @@
 
 ###Extra
 * [Built with Laravel](http://builtwithlaravel.com)
+* [LaraJobs](https://larajobs.com)
 * [WithLaravel (Job Board)](http://withlaravel.com)
 * [Laravel News](http://laravel-news.com)
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/laravel)
