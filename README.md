@@ -42,6 +42,7 @@
 * [Maxoffsky - Maks Surguy](http://maxoffsky.com/category/code-blog/)
 * [Ryan Tablada](http://ryantablada.com/tag/Laravel)
 * [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)
+* [intolaravel](http://www.intolaravel.com/)
 
 ###Tutorials
 * [Laracasts](https://laracasts.com/)
