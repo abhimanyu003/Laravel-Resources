@@ -38,7 +38,6 @@
 * [develoPHP](http://www.develophp.org/)
 * [Dries Vints](http://driesvints.com/)
 * [Fideloper](http://fideloper.com/tag/laravel)
-* [intolaravel](http://www.intolaravel.com/)
 * [Jasonlewis](http://jasonlewis.me)
 * [Kirk Bushell](http://kirkbushell.me/categories/laravel/)
 * [Maxoffsky - Maks Surguy](http://maxoffsky.com/category/code-blog/)
@@ -46,6 +45,7 @@
 
 ###Tutorials
 * [Fallendown2005](https://www.youtube.com/user/fallendown2005)
+* [intolaravel](http://www.intolaravel.com/)
 * [Laracasts](https://laracasts.com/)
 * [Laravel Recipes](http://laravel-recipes.com/)
 * [Learning Laravel Center](http://www.learninglaravel.net)
