@@ -91,7 +91,8 @@
 
 ###Extra
 * [Built with Laravel](http://builtwithlaravel.com)
-* [LaraJobs](https://larajobs.com)
+* [Laravel Gurus](http://laravelgurus.com)
+* [Lara Jobs](https://larajobs.com)
 * [Laravel News](http://laravel-news.com)
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/laravel)
 * [WithLaravel (Job Board)](http://withlaravel.com)
