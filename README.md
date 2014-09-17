@@ -53,9 +53,9 @@
 * [Tuts+](https://tutsplus.com/?s=laravel&post_type=all)
 
 ###Books
+* [Building Web Applications Using Parse REST API](https://leanpub.com/building-web-applications-using-parse-rest-api)
 * [Getting Stuff Done with Laravel 4](https://leanpub.com/gettingstuffdonelaravel)
 * [Implementing Laravel](https://leanpub.com/implementinglaravel)
-* [Jasmine Web App](https://leanpub.com/jasminewebapp)
 * [Laravel 4 Cookbook](https://leanpub.com/laravel4cookbook)
 * [Laravel in Action by Maks Surguy](http://www.manning.com/surguy/)
 * [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded)
