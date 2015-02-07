@@ -24,6 +24,7 @@
 * [Laravel IRC channel](http://laravel.io/irc)
 * [Forums](http://laravel.io/forum)
 * irc://chat.freenode.net:6667/laravel
+* [Slack Chat](https://larachat.slack.com/messages/frontporch/)
 
 ###Locale
 * [Laravel France](http://laravel.fr)
