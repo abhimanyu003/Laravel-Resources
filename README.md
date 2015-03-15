@@ -30,6 +30,8 @@
 * [Laravel France](http://laravel.fr)
 * [Laravel Korea](http://laravel-korea.org/)
 * [Laravel Russia](http://laravel.ru)
+* [Laravel Brazil](http://laravel.com.br)
+* [Laravel Brazil - Forum](http://duvidas.laravel.com.br/forum)
 
 ###Blogs
 * [Andrews Blog](http://blog.kongnir.com)
