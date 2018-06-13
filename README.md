@@ -1,6 +1,6 @@
 ![Banner](http://i.imgur.com/k0G6tMM.png)
 
-###Index
+### Index
 * [Official](#official)
 * [Communities](#communities)
 	* [Locale](#locale) 	
@@ -10,7 +10,7 @@
 * [Social](#social)
 * [Extra](#extra)
 
-###Official
+### Official
 * [Laravel.com](http://laravel.com/)
 * [Laravel GitHub](https://github.com/laravel/laravel) 
 * [Laravel Framework (Kernel)](https://github.com/laravel/framework)
@@ -19,21 +19,21 @@
 * [Laravel Minecraft](http://minecraft.laravel.com)
 * [Laracon](https://conference.laravel.com/)
 
-###Communities
+### Communities
 * [Laravel INS & OUTS](http://laravel.io/)
 * [Laravel IRC channel](http://laravel.io/irc)
 * [Forums](http://laravel.io/forum)
 * irc://chat.freenode.net:6667/laravel
 * [Lara Chat](http://larachat.co/)
 
-###Locale
+### Locale
 * [Laravel France](http://laravel.fr)
 * [Laravel Korea](http://laravel-korea.org/)
 * [Laravel Russia](http://laravel.ru)
 * [Laravel Brazil](http://laravel.com.br)
 * [Laravel Brazil - Forum](http://duvidas.laravel.com.br/forum)
 
-###Blogs
+### Blogs
 * [Andrews Blog](http://blog.kongnir.com)
 * [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)
 * [Culttt](http://culttt.com)
@@ -46,7 +46,7 @@
 * [Maxoffsky - Maks Surguy](http://maxoffsky.com/category/code-blog/)
 * [Ryan Tablada](http://ryantablada.com/tag/Laravel)
 
-###Tutorials
+### Tutorials
 * [Fallendown2005](https://www.youtube.com/user/fallendown2005)
 * [intolaravel](http://www.intolaravel.com/)
 * [Laracasts](https://laracasts.com/)
@@ -55,7 +55,7 @@
 * [net.tuts+](https://tutsplus.com/?s=laravel&post_type=all)
 * [Tuts+](https://tutsplus.com/?s=laravel&post_type=all)
 
-###Books
+### Books
 * [Building Web Applications Using Parse REST API](https://leanpub.com/building-web-applications-using-parse-rest-api)
 * [Getting Stuff Done with Laravel 4](https://leanpub.com/gettingstuffdonelaravel)
 * [Implementing Laravel](https://leanpub.com/implementinglaravel)
@@ -68,7 +68,7 @@
 * [Laravel: From Apprentice To Artisan](https://leanpub.com/laravel)
 * [Learning Laravel: The Easiest Way](https://leanpub.com/learninglaravel)
 
-###Tools
+### Tools
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper)
 * [Laravel Cheat Sheet](http://cheats.laravel.com)
 * [Laravel Packages Registry](http://registry.autopergamene.eu/)
@@ -77,7 +77,7 @@
 * [Laravel Tricks](http://www.laravel-tricks.com/)
 * [Packalyst](http://packalyst.com)
 
-###Social
+### Social
 * [@LaravelNews](https://twitter.com/laravelnews)
 * [@laravelphp](https://twitter.com/laravelphp)
 * [@LaravelWeekly](https://twitter.com/LaravelWeekly)
@@ -92,7 +92,7 @@
 * [Reddit](http://www.reddit.com/r/laravel/)
 * [VK (Laravel Russian)](http://vk.com/laravel_rus)
 
-###Extra
+### Extra
 * [Built with Laravel](http://builtwithlaravel.com)
 * [Laravel Gurus](http://laravelgurus.com)
 * [Lara Jobs](https://larajobs.com)
@@ -100,6 +100,6 @@
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/laravel)
 * [WithLaravel (Job Board)](http://withlaravel.com)
 
-###Contribute
+### Contribute
 
 Please Contribute the list of resources you are aware of and not included in the list. Make sure to provide the contribution in proper section
